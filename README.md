@@ -1,2 +1,2 @@
-# python-prog
-solve the quadratic equation
+# quadratic equation
+solve the quadratic equation in python
